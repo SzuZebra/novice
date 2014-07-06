@@ -4,7 +4,7 @@
 基本功能
  ✔ 使用者可以登入 / 登出 @done (14-07-06 09:59)
  ☐ 使用者可以使用 Facebook 登入 https://github.com/xdite/auto-facebook
-發表 Link
+發表 Link(要登入)
  ☐ 使用者可以填入網址，網站自動抓標題和簡介 http://embed.ly/docs/tutorials/jquery_preview
  ☐ 使用者可以在每則網址下面留言 https://github.com/jackdempsey/acts_as_commentable
  ☐ 作者和討論者可以在有人留言時，就收到留言更新 http://mailgun.com
@@ -12,7 +12,7 @@ RSS
  ☐ 使用者可以訂閱 RSS http://stackoverflow.com/questions/3951235/how-do-i-make-an-rss-atom-feed-in-rails-3
 Link 分類
  ☐ Link 必須被分類 : Gem / 新聞 / 教學 / 討論
-使用者資訊
+使用者資訊（要登入）
  ☐ 使用者可以更新自己個人資訊
  ☐ 使用者可以更改密碼
  ☐ 使用者可以放上自己 Github 網址
